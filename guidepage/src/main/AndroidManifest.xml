@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zkuzan.guildpage" >
+    <application>
+        <activity android:name="com.zkuzan.guildpage.GuidePageActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+    </application>
+</manifest>

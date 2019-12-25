@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="gp_indicator_marginLeft">16dp</dimen>
+    <dimen name="gp_indicator_marginTop">16dp</dimen>
+    <dimen name="gp_indicator_marginRight">16dp</dimen>
+    <dimen name="gp_indicator_marginBottom">60dp</dimen>
+
+    <dimen name="gp_done_marginLeft">16dp</dimen>
+    <dimen name="gp_done_marginTop">90dp</dimen>
+    <dimen name="gp_done_margiRight">16dp</dimen>
+    <dimen name="gp_done_marginBottom">90dp</dimen>
+
+    <dimen name="gp_skip_marginLeft">16dp</dimen>
+    <dimen name="gp_skip_marginTop">30dp</dimen>
+    <dimen name="gp_skip_margiRight">16dp</dimen>
+    <dimen name="gp_skip_marginBottom">30dp</dimen>
+
+    <dimen name="gp_skip_paddingLeft">10dp</dimen>
+    <dimen name="gp_skip_paddingTop">4dp</dimen>
+    <dimen name="gp_skip_paddingRight">10dp</dimen>
+    <dimen name="gp_skip_paddingBottom">4dp</dimen>
+
+    <dimen name="gp_skip_textSize">14sp</dimen>
+    <dimen name="gp_skip_background_radius">8dp</dimen>
+</resources>
